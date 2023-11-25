@@ -1,0 +1,60 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-blogapp-dev-142351-authRole",
+      "UnauthRoleArn": "arn:aws:iam::226120165857:role/amplify-blogapp-dev-142351-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::226120165857:role/amplify-blogapp-dev-142351-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-blogapp-dev-142351-deployment",
+      "UnauthRoleName": "amplify-blogapp-dev-142351-unauthRole",
+      "StackName": "amplify-blogapp-dev-142351",
+      "StackId": "arn:aws:cloudformation:eu-west-1:226120165857:stack/amplify-blogapp-dev-142351/84068cd0-9319-11ec-9d55-0a05f8577d37",
+      "AmplifyAppId": "d5xxl4us1wbk8"
+    },
+    "categories": {
+      "auth": {
+        "blogappad1b2f0b": {},
+        "true": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d5xxl4us1wbk8",
+          "type": "manual"
+        }
+      },
+      "storage": {
+        "postimages": {}
+      }
+    }
+  },
+  "ismatfiazi": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-blogapp-ismatfiazi-213952-authRole",
+      "UnauthRoleArn": "arn:aws:iam::226120165857:role/amplify-blogapp-ismatfiazi-213952-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::226120165857:role/amplify-blogapp-ismatfiazi-213952-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-blogapp-ismatfiazi-213952-deployment",
+      "UnauthRoleName": "amplify-blogapp-ismatfiazi-213952-unauthRole",
+      "StackName": "amplify-blogapp-ismatfiazi-213952",
+      "StackId": "arn:aws:cloudformation:eu-west-1:226120165857:stack/amplify-blogapp-ismatfiazi-213952/cb731e10-871b-11ee-95c3-06aee0f79459",
+      "AmplifyAppId": "d5xxl4us1wbk8"
+    },
+    "categories": {
+      "auth": {
+        "blogappad1b2f0b": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d5xxl4us1wbk8",
+          "type": "manual"
+        }
+      },
+      "api": {
+        "blogapp": {}
+      },
+      "storage": {
+        "postimages": {}
+      }
+    }
+  }
+}
